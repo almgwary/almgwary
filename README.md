@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi 👋, I'm [Amr Ibrahim]()
 
-<!--
-**almgwary/almgwary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at [VMware](https://https://vmware.com/)
+- 🌱 I’m currently learning **everything i need**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/amr-ibrahim-798465ba)   [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)]([https://stackoverflow.com/users/15974978/asif-jalil](https://stackoverflow.com/users/6786941/amr-ibrahim))
+
+
+<br/>
+
+### Technology Stack:
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30"/> ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="30"/> ](hhttps://www.typescriptlang.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react js" width="40" height="30"/> ](https://reactjs.org) [<img src="./nextjs-logo.png" alt="next js" width="30" height="30"/> ](https://nextjs.org) [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="30"/> ](https://nodejs.org) [<img src="./express.png" alt="express" width="30" height="30"/> ](https://expressjs.com) [<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nest js" width="40" height="30"/> ](https://expressjs.com) [<img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="mysql" width="40" height="30"/> ](https://www.mysql.com/) [<img src="https://asifjalil.netlify.app/static/media/webpack.4e74b03a.svg" alt="webpack" width="40" height="30"/>](https://webpack.js.org/)
+
+<br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almgwary&layout=compact)](https://github.com/almgwary)
+
+[![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=almgwary&count_private=true&show_icons=true)](https://github.com/almgwary)
+
+<a href="https://www.buymeacoffee.com/amr_ibrahim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
