@@ -1,10 +1,6 @@
 ## Hi 👋, I'm [Amr Ibrahim]()
 
-<br/>
-
-- 🔭 I’m currently working at [VMware](https://https://vmware.com/)
-- 🌱 I’m currently learning **everything i need**
-
+ 
 ### Connect with me
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/amr-ibrahim-798465ba)   [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)]([https://stackoverflow.com/users/15974978/asif-jalil](https://stackoverflow.com/users/6786941/amr-ibrahim))
